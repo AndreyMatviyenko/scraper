@@ -1,0 +1,38 @@
+[
+  {
+    "artist": "Chelsea Wolfe",
+    "album": "Abyss",
+    "label": "Sargent House",
+    "year": "2015",
+    "reviewer": "Brandon Stosuy",
+    "review_date": "2015-08-07",
+    "score": 8.1
+  },
+  {
+    "artist": "Laraaji",
+    "album": "Lotus Collage",
+    "label": "Leaving",
+    "year": "1978/2015",
+    "reviewer": "Mark Richardson",
+    "review_date": "2015-08-07",
+    "score": 8.0
+  },
+  {
+    "artist": "Eleventh Dream Day",
+    "album": "Works for Tomorrow",
+    "label": "Thrill Jockey",
+    "year": "2015",
+    "reviewer": "Paul Thompson",
+    "review_date": "2015-08-07",
+    "score": 7.4
+  },
+  {
+    "artist": "Hatchback",
+    "album": "Colors of the Sun",
+    "label": "Be With",
+    "year": "2015",
+    "reviewer": "Andy Beta",
+    "review_date": "2015-08-07",
+    "score": 7.3
+  }
+]
